@@ -44,5 +44,5 @@ sudo useradd -m -d /opt/username username
 Creating a user  with specific User Id
 sudo useradd -u 1500 username
 
-
-
+2. su: switch user or substitute user
+su - account
